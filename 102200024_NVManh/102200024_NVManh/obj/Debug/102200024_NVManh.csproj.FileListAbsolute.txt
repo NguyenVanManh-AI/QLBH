@@ -1,0 +1,17 @@
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\102200024_NVManh.exe.config
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\102200024_NVManh.exe
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\102200024_NVManh.pdb
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.csproj.AssemblyReference.cache
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\_102200024_NVManh.Properties.Resources.resources
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\_102200024_NVManh.MainForm.resources
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.csproj.GenerateResource.cache
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.exe
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.pdb
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\EntityFramework.dll
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\EntityFramework.xml
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\102200024_NVManh.csproj.CopyComplete
+C:\Users\LAPTOP KIM ANH\source\repos\102200024_NVManh\102200024_NVManh\obj\Debug\_102200024_NVManh.DetailForm.resources
